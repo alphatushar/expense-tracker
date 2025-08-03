@@ -48,5 +48,13 @@ expense-tracker/
 - Testing Tool: Postman / Curl
 
 ---
+
+## Examples
+![screenshot](backend/example/screenshot%201.png)
+![screenshot](backend/example/screenshot%202.png)
+![screenshot](backend/example/screenshot%203.png)
+![screenshot](backend/example/screenshot%204.png)
+
+---
 ### Author
 Tushar Sharma
